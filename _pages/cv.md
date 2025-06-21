@@ -9,37 +9,63 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Summary
+Research Scientist with a PhD in Robotics and expertise in AI, deep learning, and generative modeling. Experienced in developing ML models for optimization, data-driven kinematic modeling, and autonomous decision-making. Skilled at combining technical knowledge with creative problem-solving to address complex challenges and deliver impactful solutions.
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Education
+* **PhD in Automation and Robotics** (Cum Laude), Universidad Politécnica de Madrid, Madrid, Spain, 2024
+  * Dissertation: "Design and Development of Self-Configurable Modular Robotic Systems for Mining Operations"
+* **Master of Science in Electromechanical Engineering** (GPA: 8.28/10.00), Universidad Politécnica de Madrid, Madrid, Spain, 2020
+* **Bachelor of Science in Mechanical Engineering** (GPA: 18.00/20.00, Cum Laude), Universidad Metropolitana, Caracas, Venezuela, 2018
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Work Experience
+* **Dec. 2023 – Present: Recognized Researcher (R2)**
+  * **Project:** METATOOL Project
+  * **Organization:** Universidad Politécnica de Madrid, Madrid, Spain
+  * **Responsibilities:**
+    * Led the development of AI-driven autonomous tool invention using reinforcement learning and generative models
+    * Developed a state-of-the-art testbed for autonomous tool creation evaluation
+    * Directed multidisciplinary teams and managed project milestones
+    * Partnered with international institutions and R&D companies
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Apr. 2021 – Nov. 2023: First Stage Researcher (R1)**
+  * **Project:** ROBOMINERS Project
+  * **Organization:** Universidad Politécnica de Madrid, Madrid, Spain
+  * **Responsibilities:**
+    * Designed modular robotic prototypes for resilience and self-assembly in underground mining
+    * Developed AI-driven kinematic models for a soft-continuum robotic arm
+    * Created an AI-based 3D mapping system integrating sensor fusion and deep learning
+
+* **Sep. 2019 – Jul. 2020: Consultant Engineer**
+  * **Project:** Procurement anticipation for Airbus A350XWB family
+  * **Organization:** Airbus on behalf of Alten SO, Toulouse, France
+  * **Responsibilities:**
+    * Delivered over 40 customer Change Requests analyzing 3D models with CATIAV5 DMU
+    * Prepared Technical Risk Assessments and preliminary Bills of Materials
+    * Communicated with procurement, R&D, and Supply Chain for technical coordination
+
+## Skills
+### Programming Languages
+* Python, C, C++, SQL
+
+### CAD & Simulation
+* Solidworks, Fusion360, Gazebo, IsaacSim, IsaacLab
+
+### Robotics & Control
+* ROS/ROS2, Unix (Linux)
+
+### Machine Learning & AI
+* Tensorflow, Pytorch, Deep Learning (MLP, CNN), Reinforcement Learning (MDP), Generative AI, LLMs
+
+### DevOps & Tools
+* MLOps, Docker, Git, GPU Acceleration
+
+### Languages
+* Spanish (Native), English (Native), French (Full Professional)
+
+### Soft Skills
+* Leadership, Team Management
+
 
 Publications
 ======
