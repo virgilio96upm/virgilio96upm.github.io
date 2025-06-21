@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile_vg.png"
   name             : "Virgilio Gómez Lambo"
-  pronouns         : "he/him"  
+  pronouns         : #  
   bio              : "Research Scientist in Robotics and Machine Learning"
   location         : "Madrid, Spain"
   employer         : "Universidad Politécnica de Madrid"
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/virgiliogl/"
+  linkedin         : "virgiliogl"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
