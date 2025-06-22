@@ -3,12 +3,11 @@ title: "Robominer: Development of a highly configurable and modular scaled-down 
 collection: publications
 category: manuscripts
 permalink: /publication/2023-08-07-MDPI-Machines
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper presents the development of a modular robotic system for mining, focusing on modularity and self-assembly to create adaptable and compact robots for future mining operations as part of the ROBOMINERS project.'
 date: 2023-08-07
 venue: 'Machines'
-slidesurl: ''
 paperurl: 'https://www.mdpi.com/2075-1702/11/8/809'
-bibtexurl: 'http://virgilio96upm.github.io/files/bibtex1.bib'
+bibtexurl: 'http://virgilio96upm.github.io/files/bibtex_MACHINES_2023-08-07.bib'
 citation: 'Gomez, V., Hernando, M., Aguado, E., Sanz, R., & Rossi, C. (2023). &quot;ROBOMINER: Development of a Highly Configurable and Modular Scaled-Down Prototype of a Mining Robot.&quot; <i>Machines</i>. 11(8), 809. https://doi.org/10.3390/machines11080809'
 ---
 
